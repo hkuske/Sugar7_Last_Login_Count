@@ -32,9 +32,9 @@ $manifest = array (
   'icon' => '',
   'is_uninstallable' => true,
   'name' => 'last_login_count',
-  'published_date' => '2020-04-10 00:00:00',
+  'published_date' => '2020-04-10 00:00:02',
   'type' => 'module',
-  'version' => 202004100001,
+  'version' => 202004100002,
   'remove_tables' => 'false',
 );
 
